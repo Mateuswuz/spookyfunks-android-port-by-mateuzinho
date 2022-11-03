@@ -1,22 +1,41 @@
 {
-	"songs": [
-		["Bopeebo", "dad", [146, 113, 253]],
-		["Fresh", "dad", [146, 113, 253]],
-		["Dad Battle", "dad", [146, 113, 253]]
+	"storyName": "Spooky Funks Demo",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "spooky",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "stage",
-
-	"storyName": "Daddy Dearest",
 	"weekBefore": "tutorial",
-	"weekName": "Week 1",
 	"startUnlocked": true,
-
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"trick-or-treat",
+			"pump",
+			[
+				106,
+				0,
+				220
+			]
+		],
+		[
+			"bones",
+			"skid",
+			[
+				106,
+				40,
+				200
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "spooky",
+	"hiddenUntilUnlocked": false
 }
