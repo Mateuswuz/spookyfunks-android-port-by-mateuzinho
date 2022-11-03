@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pumpbg.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="327" height="352" frameX="0" frameY="-7" frameWidth="327" frameHeight="359"/>
+	<SubTexture name="idle0001" x="327" y="0" width="320" height="355" frameX="-3" frameY="-4" frameWidth="327" frameHeight="359"/>
+	<SubTexture name="idle0002" x="647" y="0" width="317" height="355" frameX="-5" frameY="-3" frameWidth="327" frameHeight="359"/>
+	<SubTexture name="idle0003" x="964" y="0" width="315" height="357" frameX="-6" frameY="-2" frameWidth="327" frameHeight="359"/>
+	<SubTexture name="idle0004" x="1279" y="0" width="314" height="358" frameX="-6" frameY="-1" frameWidth="327" frameHeight="359"/>
+	<SubTexture name="idle0005" x="1593" y="0" width="313" height="357" frameX="-7" frameY="-1" frameWidth="327" frameHeight="359"/>
+	<SubTexture name="idle0006" x="0" y="358" width="312" height="358" frameX="-7" frameY="0" frameWidth="327" frameHeight="359"/>
+	<SubTexture name="idle0007" x="312" y="358" width="312" height="358" frameX="-7" frameY="0" frameWidth="327" frameHeight="359"/>
+	<SubTexture name="idle0008" x="624" y="358" width="311" height="358" frameX="-8" frameY="0" frameWidth="327" frameHeight="359"/>
+	<SubTexture name="idle0009" x="935" y="358" width="311" height="358" frameX="-8" frameY="0" frameWidth="327" frameHeight="359"/>
+	<SubTexture name="idle0010" x="935" y="358" width="311" height="358" frameX="-8" frameY="0" frameWidth="327" frameHeight="359"/>
+	<SubTexture name="idle0011" x="935" y="358" width="311" height="358" frameX="-8" frameY="0" frameWidth="327" frameHeight="359"/>
+	<SubTexture name="idle0012" x="935" y="358" width="311" height="358" frameX="-8" frameY="0" frameWidth="327" frameHeight="359"/>
+	<SubTexture name="idle0013" x="935" y="358" width="311" height="358" frameX="-8" frameY="0" frameWidth="327" frameHeight="359"/>
+</TextureAtlas>
