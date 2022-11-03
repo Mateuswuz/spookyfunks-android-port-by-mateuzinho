@@ -1,0 +1,204 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "speaker",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*Bf knocks on the door*"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "speaker",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*Pump answers it*"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfspooky",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Trick or Treat!"
+		},
+		{
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "pump",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Its 11:34 on October 29th"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfspooky",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pump",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You're early"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfspooky",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah i was wondering why nobody else was out"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pump",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wheres your costume?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfspooky",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh i forgot to get one"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pump",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh well are you going to leave?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfspooky",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah but first can i use the bathroom?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pump",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah come on in"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pump",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Its down that hallway to the right"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfspooky",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok thanks"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "speaker",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*Bf uses the bathroom*"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfspooky",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok im done so ill be heading out now"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pump",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wait i see you have a mic"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pump",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Do you sing?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfspooky",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Actually i rap, but you could call it singing too"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pump",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh cool!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pump",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wanna have a rap battle?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfspooky",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Isn't every one else sleeping?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pump",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yeah but they wont wake up"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfspooky",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok then"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfspooky",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'll start the song"
+		}
+	]
+}
