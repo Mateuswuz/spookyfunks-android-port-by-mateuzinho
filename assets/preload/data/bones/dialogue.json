@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "*Skid wakes up from all the noise and comes down stairs*",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "speaker"
+		},
+		{
+			"expression": "talk",
+			"text": "what was all that noise?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "skid"
+		},
+		{
+			"expression": "talk",
+			"text": "I was rapping with my new fren!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pump"
+		},
+		{
+			"expression": "talk",
+			"text": "I thought you said no one would wake up",
+			"boxState": "normal",
+			"portrait": "bfspooky",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Oh i wanna rap!",
+			"boxState": "normal",
+			"portrait": "skid",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "uh ok i guess",
+			"boxState": "normal",
+			"portrait": "bfspooky",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "YAY!",
+			"boxState": "normal",
+			"portrait": "skid",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "heres a mic",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfspooky"
+		},
+		{
+			"expression": "talk",
+			"text": "ok thanks!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "skid"
+		},
+		{
+			"expression": "talk",
+			"text": "Now lets start!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "skid"
+		},
+		{
+			"expression": "talk",
+			"text": "coolswag",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfspooky"
+		}
+	]
+}
